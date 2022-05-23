@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkabp_zero_template=self.webpackChunkabp_zero_template||[]).push([[89416],{89416:(u,n,o)=>{o.r(n),o.d(n,{default:()=>p});const e=void 0,p=[[["pono\u0107","podne","ujutro","poslijepodne","nave\u010der","po no\u0107i"],e,e],e,["00:00","12:00",["04:00","12:00"],["12:00","18:00"],["18:00","21:00"],["21:00","04:00"]]]}}]);

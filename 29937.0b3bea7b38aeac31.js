@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkabp_zero_template=self.webpackChunkabp_zero_template||[]).push([[29937],{29937:(n,u,a)=>{a.r(u),a.d(u,{default:()=>t});const e=void 0,t=[[["yarim tun","tush payti","ertalab","kunduzi","kechqurun","kechasi"],e,e],e,["00:00","12:00",["06:00","11:00"],["11:00","18:00"],["18:00","22:00"],["22:00","06:00"]]]}}]);
