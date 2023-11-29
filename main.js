@@ -496,9 +496,9 @@ class ThirdComponent {
             { data: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 56, 20, 67, 90], label: 'Programming' }
         ];
         this.radarChartType = 'radar';
-        this.languages = ['Javascript', 'Typescript', 'RxJs'];
+        this.languages = ['Javascript', 'Typescript'];
         this.libraries = ['Angular', 'Reactjs', 'Angular Material', 'Ng Bootstrap',
-            'Ngx-Fromly', 'Ag-Grid', 'Gojs', 'Chartjs'];
+            'Ngx-Fromly', 'Ag-Grid', 'Chartjs', 'RxJs'];
         this.designSkills = ['Html5', 'Css3', 'SASS', 'LESS', 'ResponsiveWebDesign'];
         this.programming = ['OOP', 'SOLID', 'Design Patterns', 'micro-frontend', 'modular programming'];
         this.StateManagement = ['Reduxjs', 'NgRx'];
